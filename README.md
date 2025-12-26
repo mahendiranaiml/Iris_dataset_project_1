@@ -1,4 +1,4 @@
-🚀 26 Machine Learning Projects Challenge
+26 Machine Learning Projects Challenge
 
 Welcome to my journey of mastering Artificial Intelligence and Machine Learning! My goal is to build 26 complete ML projects, ranging from fundamental algorithms to complex Deep Learning systems.
 
